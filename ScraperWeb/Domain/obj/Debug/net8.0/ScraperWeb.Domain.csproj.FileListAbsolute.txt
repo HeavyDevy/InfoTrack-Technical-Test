@@ -1,0 +1,22 @@
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.deps.json
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.AssemblyInfo.cs
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\refint\ScraperWeb.Domain.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ref\ScraperWeb.Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.deps.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\bin\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\refint\ScraperWeb.Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperWeb.Domain\obj\Debug\net8.0\ref\ScraperWeb.Domain.dll

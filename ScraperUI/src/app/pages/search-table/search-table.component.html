@@ -1,0 +1,26 @@
+<div class="table-container">
+<table class="table table-striped" bordered="true">
+	<thead>
+		<tr>
+			<th scope="col">Url</th>
+			<th scope="col">Keywords</th>
+			<th scope="col">Position</th>
+			<th scope="col">Date</th>
+            <th scope="col">Occurrences</th>
+		</tr>
+	</thead>
+	<tbody>
+		@for (search of searches; track search.url; let  i = $index) {
+			<tr [class.active]="i == HighlightRow">
+				<td>
+					{{ search.url }}
+				</td>
+				<td>{{ search.keywords }}</td>
+                <td>{{ search.position }}</td>
+                <td>{{ search.date }}</td>
+				<td>{{ search.occurrences | number }}</td>
+			</tr>
+		}
+	</tbody>
+</table>
+</div>

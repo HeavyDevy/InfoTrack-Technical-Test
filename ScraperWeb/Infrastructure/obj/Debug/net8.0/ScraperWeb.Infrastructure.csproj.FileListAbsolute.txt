@@ -1,0 +1,36 @@
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.deps.json
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.runtimeconfig.json
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.pdb
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.AssemblyInfo.cs
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperW.DEA575CA.Up2Date
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\refint\ScraperWeb.Infrastructure.dll
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.pdb
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.genruntimeconfig.cache
+C:\Users\Hokan Dev 1\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ref\ScraperWeb.Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\refint\ScraperWeb.Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.deps.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\ScraperWeb.Domain.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.csproj.CopyComplete
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ScraperWeb.Infrastructure.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\obj\Debug\net8.0\ref\ScraperWeb.Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\Application.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\ScraperApi.Persistence\bin\Debug\net8.0\Application.pdb

@@ -1,0 +1,103 @@
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperApi\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.dll
+C:\Users\david\OneDrive\Documents\Visual Studio 2022\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\david\source\repos\ScraperWeb\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Persistance.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\bin\Debug\net8.0\Persistance.pdb
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\david\source\repos\ScraperWeb8.0\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\bin\Debug\net8.0\Persistance.pdb
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\david\source\repos\ToIT\ScraperWeb\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
