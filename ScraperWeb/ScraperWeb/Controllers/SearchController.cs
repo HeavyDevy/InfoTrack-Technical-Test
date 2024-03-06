@@ -1,11 +1,9 @@
 using Application.Common.Interfaces;
 using Application.Models.DTOs;
-using Infrastructure.HttpClients.External;
-using Infrastructure.Services.SearchUtils;
 using Microsoft.AspNetCore.Mvc;
-using ScraperWeb.Domain.Entities;
-using ScraperWeb.Persistance.Data;
 using System.Globalization;
+using System.Net;
+
 
 namespace ScraperWeb.Controllers
 {
@@ -32,6 +30,9 @@ namespace ScraperWeb.Controllers
         [Consumes("application/json")]
         public async Task<IActionResult> Post([FromBody] SearchDto dto)
         {
+            if (!ModelState.IsValid)
+                return UnprocessableEntity(ModelState);
+
 
             var result = await _searchService.Search(dto.Url, dto.Keywords);
 
