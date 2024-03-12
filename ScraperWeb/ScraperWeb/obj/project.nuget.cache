@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8P+kJHcvciF4Ioa+47cCMBaanCdG1soGK4n1m23cQ6rahfeKoEUAKEyVlrGYf14TT+jCm4r1AwhpGhIUrG0/oQ==",
+  "dgSpecHash": "ID21UWtgKSCtXl5KVs+Y/QY2EmRuSoTseZ+wdN+e1c654s8g86gqUi+7jUZznrwtM4SEuvrvT5b0hc1opAHKDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

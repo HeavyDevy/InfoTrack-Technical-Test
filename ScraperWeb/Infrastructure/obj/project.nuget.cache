@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVVsXDBnhSpuhq83DwowPwk94cZnPJVlR+OOBQvETUqCoXpCQ3qBc6ReLwLHbVw1erKYEDz/mxcST/a9CHvO9A==",
+  "dgSpecHash": "Z7EbsnWvnLsbx1VwNNklrDkNyoNfi7p9hspfQkqkdHFUxWJ7HveS/FHZUWQktLxYopdNw0Mx4AZkfNOmENfTwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

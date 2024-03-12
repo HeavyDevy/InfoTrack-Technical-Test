@@ -3554,11 +3554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
+      "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
       "projectName": "ScraperWeb",
-      "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
+      "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\ScraperWeb\\ScraperWeb.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\ScraperWeb\\obj\\",
+      "outputPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\ScraperWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3575,8 +3575,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

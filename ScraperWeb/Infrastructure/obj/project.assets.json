@@ -4890,11 +4890,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4911,14 +4911,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Application\\Application.csproj"
+            "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Application\\Application.csproj"
             },
-            "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Domain\\Domain.csproj"
+            "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Persistance\\Persistance.csproj": {
-              "projectPath": "C:\\Users\\david\\source\\repos\\ToIT\\ScraperWeb\\Persistance\\Persistance.csproj"
+            "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Persistance\\Persistance.csproj": {
+              "projectPath": "C:\\Users\\david\\OneDrive\\Documents\\GitHub\\InfoTrack-Technical-Test\\ScraperWeb\\Persistance\\Persistance.csproj"
             }
           }
         }
