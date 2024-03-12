@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Persistance
-build_property.ProjectDir = C:\Users\david\source\repos\ToIT\ScraperWeb\Persistance\
+build_property.ProjectDir = C:\Users\david\OneDrive\Documents\GitHub\InfoTrack-Technical-Test\ScraperWeb\Persistance\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

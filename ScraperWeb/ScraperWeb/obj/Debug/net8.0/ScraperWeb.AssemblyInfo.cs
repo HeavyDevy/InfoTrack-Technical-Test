@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScraperWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75acce5073acf1e7bf83508509ade8bfe444d7f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScraperWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScraperWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
