@@ -17,14 +17,14 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
     {
-        var connectionString = configuration.GetConnectionString("DefaultConnection");
+        var connectionString = configuration.GetConnectionString(Constants.CONNECTION_STRING_NAME);
 
         services.AddDbContext<ScraperDbContext>(options =>
                 options.UseSqlServer(connectionString));
 
         services.AddScoped<ApplicationDbContextInitialiser>();
 
-        services.AddHttpClient<SearchHttpClient>();
+        services.AddHttpClient<ISearchProvider, GoogleSearchProvider>();
         services.AddScoped<ISearchService,SearchService>();
 
 

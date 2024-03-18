@@ -19,12 +19,11 @@ namespace Infrastructure.Services.SearchUtils
     public class SearchService : ISearchService
     {
         private readonly ScraperDbContext _context;
-        private readonly SearchHttpClient _searchHttpClient;
-        private const int _numberOfResults = 100;
+        private readonly ISearchProvider _searchProvider;        
 
-        public SearchService(ScraperDbContext context, SearchHttpClient searchHttpClient)
+        public SearchService(ScraperDbContext context, ISearchProvider searchProvider)
         {
-            _searchHttpClient = searchHttpClient;
+            _searchProvider = searchProvider;
             _context = context;
         }
 
@@ -37,27 +36,9 @@ namespace Infrastructure.Services.SearchUtils
 
         }
 
-        public async Task<Search> SearchKeywords(Search searchParameter)
-        {
-
-
-            _context.Searches.Add(searchParameter);
-            await _context.SaveChangesAsync();
-
-
-            return searchParameter;
-        }
-
         public async Task<SearchHistoryDto> Search(string url, string keywords)
         {
-            if (string.IsNullOrEmpty(url))
-                throw new ArgumentOutOfRangeException("Empty url");
-
-            if (keywords.Length == 0)
-                throw new ArgumentException("No keywords");
-
-
-            var responseBody = await _searchHttpClient.GetSearchResponse($"search?num={_numberOfResults}&q={string.Join('+', keywords.Split(' '))}");
+            var responseBody = await _searchProvider.GetSearchResponse(keywords);
 
             var results = GetSearchResults(responseBody, url);
 
@@ -147,4 +128,6 @@ namespace Infrastructure.Services.SearchUtils
 
 
     }
+
+    
 }

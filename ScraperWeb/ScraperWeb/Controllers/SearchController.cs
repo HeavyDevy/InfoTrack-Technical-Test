@@ -19,13 +19,21 @@ namespace ScraperWeb.Controllers
 
         }
 
+        /// <summary>
+        /// Gets details of all previous webscrapes
+        /// </summary>
+        /// <returns>All searches</returns>
         [HttpGet(Name = "GetSearches")]
         public async Task<IEnumerable<SearchResponseDto>> Get()
         {
-
             return await _searchService.Get();
         }
 
+        /// <summary>
+        /// Submit search for webscrape
+        /// </summary>
+        /// <param name="dto"></param>
+        /// <returns>Results of search</returns>
         [HttpPost]
         [Consumes("application/json")]
         public async Task<IActionResult> Post([FromBody] SearchDto dto)

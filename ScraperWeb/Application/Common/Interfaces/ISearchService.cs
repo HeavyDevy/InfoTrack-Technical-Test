@@ -13,7 +13,6 @@ namespace Application.Common.Interfaces
     {
         Task<IEnumerable<SearchResponseDto>> Get();
 
-        Task<Search> SearchKeywords(Search searchParameter);
 
         Task<SearchHistoryDto> Search(string url, string keywords);
     }
